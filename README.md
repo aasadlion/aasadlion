@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asad Iqbal</h1>
 <h3 align="center">Modern Full-Stack Cloud Developer</h3>
-<img  align= "right "src="https://st2.depositphotos.com/7865540/10656/v/450/depositphotos_106568596-stock-illustration-chart-with-keywords-and-icons.jpg" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasadlion&label=Profile%20views&color=0e75b6&style=flat" alt="aasadlion" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aasadlion" target="blank"><img src="https://img.shields.io/twitter/follow/aasadlion?logo=twitter&style=for-the-badge" alt="aasadlion" /></a> </p>
