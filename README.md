@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aasadlion" target="blank"><img src="https://img.shields.io/twitter/follow/aasadlion?logo=twitter&style=for-the-badge" alt="aasadlion" /></a> </p>
 <img align="right" alt="" src="https://raw.githubusercontent.com/aasadlion/css-working/main/5eKX.gif" width="40%" />
-- 🔭 I’m currently working on **Digitization of image record**
+- 🔭 I’m currently working on **Freelancing**
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/aasadlion](https://linktr.ee/aasadlion)
 
-- 💬 Ask me about **MERN & JAM stack,**
+- 💬 Ask me about **MERN Stack & Blockchain Technology**
 
 - 📫 How to reach me **mianasad18033@gmail.com**
 
