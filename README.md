@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asad Iqbal</h1>
-<h3 align="center">Modern Full-Stack Cloud Developer</h3>
+<h3 align="center">Modern Full-Stack Developer</h3>
 <p align="center"> <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Devloper;Blockchain+Developer&center=true&width=500&height=50"></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasadlion&label=Profile%20views&color=0e75b6&style=flat" alt="aasadlion" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aasadlion" target="blank"><img src="https://img.shields.io/twitter/follow/aasadlion?logo=twitter&style=for-the-badge" alt="aasadlion" /></a> </p>
 <img align="right" alt="" src="https://raw.githubusercontent.com/aasadlion/css-working/main/5eKX.gif" width="40%" />
-- 🔭 I’m currently working on <b>Freelancing</b>
+ - 🔭 I’m currently working on <b>Freelancing</b>
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
