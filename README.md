@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/aasadlion" target="blank"><img src="https://img.shields.io/twitter/follow/aasadlion?logo=twitter&style=for-the-badge" alt="aasadlion" /></a> </p>
 <img align="right" alt="" src="https://raw.githubusercontent.com/aasadlion/css-working/main/5eKX.gif" width="40%" />
-- 🔭 I’m currently working on **Freelancing**
+- 🔭 I’m currently working on <b>Freelancing</b>
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
-- 👯 I’m looking to collaborate on **Collaborate with textile industry**
+- 👯 I’m looking to collaborate on **With Textile Industry**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/aasadlion](https://linktr.ee/aasadlion)
 
