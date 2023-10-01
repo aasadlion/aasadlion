@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asad Iqbal</h1>
-<h3 align="center">Modern Full-Stack Developer</h3>
+<h3 align="center">💻Software Engineer</h3>
 <p align="center"> <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Professional;MERN+Stack+Developer;Mobile+Application+Developer;WordPress+Developer&center=true&width=500&height=50"></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasadlion&label=Profile%20views&color=0e75b6&style=flat" alt="aasadlion" /> </p>
 
