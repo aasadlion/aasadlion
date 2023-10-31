@@ -40,7 +40,4 @@
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aasadlion&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
-
 
